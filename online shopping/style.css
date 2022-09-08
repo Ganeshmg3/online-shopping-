@@ -1,0 +1,51 @@
+.dropdown:hover .dropdown-menu
+{
+
+display:block;
+}
+.dropdown-item:hover{
+	display:inline-block;
+	font-size:25px;
+}
+.footer{
+paddin:10px;
+}
+h3, h{
+font-family:Monospace;
+padding:20px;
+padding-bottom:20px;
+color:black;
+text-align:center;
+}
+.jumbo
+{
+	background-color:red;
+	color:black;
+}
+.jumbo:hover
+{    
+	background-color:green;
+}
+.navbar-brand:hover
+{
+	color:blue;
+}
+.navbar-brand:hover{
+	text-shadow: 2px 2px 5px blue;
+}
+	
+.nav-link:hover
+{
+	text-shadow: 2px 2px 5px white;
+}
+.shadow:hover
+{
+	text-shadow: 2px 2px 5px red;
+}
+.h33
+{
+	background-color:white;
+}
+.h33:hover{
+	text-shadow: 2px 2px 5px orange;
+}
